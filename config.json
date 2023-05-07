@@ -4,8 +4,8 @@
     "github": {
       "repo": "weilaike7/Typora_image",
       "branch": "main",
-      "token": "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",
-      "path": "image/",
+      "token": "",                              //input your token
+      "path": "image/",                         //will help you create a folder automatically
       "customUrl": ""
     },
     "uploader": "github",
